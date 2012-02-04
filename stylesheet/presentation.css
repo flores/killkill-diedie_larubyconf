@@ -1,0 +1,10 @@
+.gist {
+  font-size: 30px;
+  width: 1200px;
+}
+
+#whiteboard img {
+  width: 1200px;
+  margin-left: -150px;
+  border: none;
+}
